@@ -6,7 +6,7 @@
         {
             Console.WriteLine("Hello, World!");
             Console.WriteLine("mjj"  );
-            Console.WriteLine("cerenin yanakları");
+            Console.WriteLine("geldili");
         }
     }
 }
